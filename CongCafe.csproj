@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="Helpers\DatabaseHelper.cs" />
     <Compile Include="Helpers\PaginationHelper.cs" />
+    <Compile Include="Helpers\UIHelper.cs" />
     <Compile Include="Helpers\ThemeHelper.cs" />
     <Compile Include="Forms\KhachHangForm.cs">
       <SubType>Form</SubType>
