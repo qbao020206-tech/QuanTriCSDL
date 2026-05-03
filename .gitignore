@@ -1,0 +1,8 @@
+# Visual Studio Temporary Files
+.vs/
+obj/
+bin/
+*.user
+*.suo
+*.vshost.exe
+*.vshost.exe.manifest
